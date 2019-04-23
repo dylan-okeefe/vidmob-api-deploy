@@ -1,0 +1,18 @@
+{
+  "main.css": "/vidmob-api-deploy/static/css/main.32ede169.chunk.css",
+  "main.js": "/vidmob-api-deploy/static/js/main.28b9d6b2.chunk.js",
+  "main.js.map": "/vidmob-api-deploy/static/js/main.28b9d6b2.chunk.js.map",
+  "runtime~main.js": "/vidmob-api-deploy/static/js/runtime~main.3c8e2ccb.js",
+  "runtime~main.js.map": "/vidmob-api-deploy/static/js/runtime~main.3c8e2ccb.js.map",
+  "static/js/2.b3a8db84.chunk.js": "/vidmob-api-deploy/static/js/2.b3a8db84.chunk.js",
+  "static/js/2.b3a8db84.chunk.js.map": "/vidmob-api-deploy/static/js/2.b3a8db84.chunk.js.map",
+  "index.html": "/vidmob-api-deploy/index.html",
+  "precache-manifest.7046b827249336814d1e5db203b0d188.js": "/vidmob-api-deploy/precache-manifest.7046b827249336814d1e5db203b0d188.js",
+  "service-worker.js": "/vidmob-api-deploy/service-worker.js",
+  "static/css/main.32ede169.chunk.css.map": "/vidmob-api-deploy/static/css/main.32ede169.chunk.css.map",
+  "static/media/ct-radio-deactivated.svg": "/vidmob-api-deploy/static/media/ct-radio-deactivated.52a5186c.svg",
+  "static/media/ct-radio-selected.svg": "/vidmob-api-deploy/static/media/ct-radio-selected.172cb532.svg",
+  "static/media/ic-clear.svg": "/vidmob-api-deploy/static/media/ic-clear.2575dd7b.svg",
+  "static/media/ic-large-email-generic.svg": "/vidmob-api-deploy/static/media/ic-large-email-generic.032abe26.svg",
+  "static/media/vm-logo-primary.svg": "/vidmob-api-deploy/static/media/vm-logo-primary.0faacd91.svg"
+}
